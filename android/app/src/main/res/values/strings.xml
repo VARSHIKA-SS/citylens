@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CityLens</string>
+    <string name="title_activity_main">CityLens</string>
+    <string name="package_name">com.citylens.app</string>
+    <string name="custom_url_scheme">com.citylens.app</string>
+</resources>

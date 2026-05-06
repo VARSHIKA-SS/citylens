@@ -1,0 +1,5 @@
+{
+  "name": "CityLens",
+  "description": "A street-smart travel companion with localized fair engines, AI-powered city intelligence, and interactive maps.",
+  "requestFramePermissions": ["geolocation"]
+}
